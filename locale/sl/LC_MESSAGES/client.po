@@ -46,6 +46,7 @@ msgid "Email address"
 msgstr "E-poštni naslov"
 
 #: app/scripts/views/permissions.js:36 app/scripts/templates/settings/display_name.mustache:1 app/scripts/templates/settings/display_name.mustache:4
+#, fuzzy
 msgid "Display name"
 msgstr "Prikazano ime"
 
