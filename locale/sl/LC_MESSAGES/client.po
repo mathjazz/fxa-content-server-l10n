@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-19 12:15+0000\n"
-"PO-Revision-Date: 2017-08-15 13:58+0000\n"
+"PO-Revision-Date: 2017-08-15 18:28+0000\n"
 "Last-Translator: dasdaqqq123 <matjaz.horvat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sl\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: app/scripts/views/complete_reset_password.js:132 app/scripts/views/complete_sign_up.js:102 app/scripts/views/confirm.js:112 app/scripts/views/confirm_reset_password.js:184
 msgid "Account verified successfully"
-msgstr "Račun uspešno potrjen"
+msgstr "Račun uspešno potrjen1"
 
 #: app/scripts/views/confirm_account_unlock.js:91
 #, fuzzy
