@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-19 12:15+0000\n"
-"PO-Revision-Date: 2017-08-15 19:04+0000\n"
+"PO-Revision-Date: 2017-08-15 19:09+0000\n"
 "Last-Translator: dasdaqqq123 <matjaz.horvat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sl\n"
@@ -70,7 +70,7 @@ msgstr "Dobrodošli v Sync"
 
 #: app/scripts/views/ready.js:59
 msgid "Account verified"
-msgstr "Račun potrjen"
+msgstr "Račun potrjen1"
 
 #: app/scripts/views/ready.js:60 app/scripts/lib/strings.js:47 app/scripts/templates/ready.mustache:5
 msgid "You are now ready to use %(serviceName)s"
