@@ -34,6 +34,7 @@ msgid "Password reset"
 msgstr "Geslo ponastavljeno"
 
 #: app/scripts/views/confirm_reset_password.js:203
+#, fuzzy
 msgid "Password reset successfully. Sign in to continue."
 msgstr "Geslo je uspešno ponastavljeno. Prijavite se za nadaljevanje."
 
