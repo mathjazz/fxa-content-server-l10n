@@ -16,37 +16,30 @@ msgstr ""
 "X-POOTLE-MTIME: 1432388856.0\n"
 
 #: app/scripts/views/complete_reset_password.js:132 app/scripts/views/complete_sign_up.js:102 app/scripts/views/confirm.js:112 app/scripts/views/confirm_reset_password.js:184
-#, fuzzy
 msgid "Account verified successfully"
 msgstr "Račun uspešno potrjen"
 
 #: app/scripts/views/confirm_account_unlock.js:91
-#, fuzzy
 msgid "Account unlocked, please try again"
 msgstr "Račun odklenjen, poskusite znova"
 
 #: app/scripts/views/confirm_reset_password.js:174 app/scripts/views/ready.js:48
-#, fuzzy
 msgid "Password reset"
 msgstr "Geslo ponastavljeno"
 
 #: app/scripts/views/confirm_reset_password.js:203
-#, fuzzy
 msgid "Password reset successfully. Sign in to continue."
 msgstr "Geslo je uspešno ponastavljeno. Prijavite se za nadaljevanje."
 
 #: app/scripts/views/permissions.js:25
-#, fuzzy
 msgid "%(permissionName)s (required)"
 msgstr "%(permissionName)s (obvezno)"
 
 #: app/scripts/views/permissions.js:31
-#, fuzzy
 msgid "Email address"
 msgstr "E-poštni naslov"
 
 #: app/scripts/views/permissions.js:36 app/scripts/templates/settings/display_name.mustache:1 app/scripts/templates/settings/display_name.mustache:4
-#, fuzzy
 msgid "Display name"
 msgstr "Prikazano ime"
 
