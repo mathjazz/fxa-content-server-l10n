@@ -41,6 +41,7 @@ msgid "%(permissionName)s (required)"
 msgstr "%(permissionName)s (obvezno)"
 
 #: app/scripts/views/permissions.js:31
+#, fuzzy
 msgid "Email address"
 msgstr "E-poštni naslov"
 
