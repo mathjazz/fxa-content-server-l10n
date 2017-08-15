@@ -16,11 +16,11 @@ msgstr ""
 "X-POOTLE-MTIME: 1432388856.0\n"
 
 #: app/scripts/views/complete_reset_password.js:132 app/scripts/views/complete_sign_up.js:102 app/scripts/views/confirm.js:112 app/scripts/views/confirm_reset_password.js:184
-#, fuzzy
 msgid "Account verified successfully"
 msgstr "Račun uspešno potrjen"
 
 #: app/scripts/views/confirm_account_unlock.js:91
+#, fuzzy
 msgid "Account unlocked, please try again"
 msgstr "Račun odklenjen, poskusite znova"
 
