@@ -36,6 +36,7 @@ msgid "Password reset successfully. Sign in to continue."
 msgstr "Geslo je uspešno ponastavljeno. Prijavite se za nadaljevanje."
 
 #: app/scripts/views/permissions.js:25
+#, fuzzy
 msgid "%(permissionName)s (required)"
 msgstr "%(permissionName)s (obvezno)"
 
