@@ -26,6 +26,7 @@ msgid "Account unlocked, please try again"
 msgstr "Račun odklenjen, poskusite znova"
 
 #: app/scripts/views/confirm_reset_password.js:174 app/scripts/views/ready.js:48
+#, fuzzy
 msgid "Password reset"
 msgstr "Geslo ponastavljeno"
 
