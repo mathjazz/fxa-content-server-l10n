@@ -20,9 +20,8 @@ msgid "Account verified successfully"
 msgstr ""
 
 #: app/scripts/views/confirm_account_unlock.js:91
-#, fuzzy
 msgid "Account unlocked, please try again"
-msgstr "Račun odklenjen, poskusite znova1"
+msgstr ""
 
 #: app/scripts/views/confirm_reset_password.js:174 app/scripts/views/ready.js:48
 #, fuzzy
