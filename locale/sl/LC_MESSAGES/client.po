@@ -29,7 +29,7 @@ msgstr "Geslo ponastavljeno"
 
 #: app/scripts/views/confirm_reset_password.js:203
 msgid "Password reset successfully. Sign in to continue."
-msgstr "Geslo je uspešno ponastavljeno. Prijavite se za nadaljevanje."
+msgstr "Geslo je uspešno ponastavljeno. Prijavite se za nadaljevanje.123"
 
 #: app/scripts/views/permissions.js:25
 msgid "%(permissionName)s (required)"
